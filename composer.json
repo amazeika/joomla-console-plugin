@@ -10,6 +10,6 @@
     }
   ],
   "autoload": {
-    "psr-0": {"Arunasmazeika\\": "plugins/"}
+    "psr-0": {"Joomlatools\\": "/"}
   }
 }
