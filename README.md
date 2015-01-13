@@ -1,0 +1,1 @@
+# joomla-console-plugin
