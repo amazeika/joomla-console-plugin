@@ -8,8 +8,5 @@
       "name": "Arunas Mazeika",
       "homepage": "https://www.arunasmazeika.com"
     }
-  ],
-  "autoload": {
-    "psr-0": {"Joomlatools\\": "/"}
-  }
+  ]
 }
