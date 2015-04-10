@@ -22,6 +22,6 @@ class Test extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $output->writeln('<message>It works!</message>');
+        $output->writeln('<info>It works!</info>');
     }
 }
