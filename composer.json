@@ -2,6 +2,7 @@
   "name": "arunasmazeika/joomla-console-plugin",
   "license": "MPLv2",
   "description": "Test plugin for joomla console",
+  "type": "joomla-console-plugin",
   "homepage": "https://github.com/amazeika/joomla-console-plugin",
   "authors": [
     {
